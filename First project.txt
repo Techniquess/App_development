@@ -4,3 +4,4 @@ About Us
 Gallery
 Blog
 Contact
+hiding the last seen
