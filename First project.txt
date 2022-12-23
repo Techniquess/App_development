@@ -2,6 +2,7 @@ App Development
 Home page
 About Us
 Gallery
+Videos and Pictures
 Blog
 Contact
 hiding the last seen
